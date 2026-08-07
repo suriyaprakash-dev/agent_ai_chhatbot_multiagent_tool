@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
-
+langchain-groq
 langgraph
 langchain
 pymysql
@@ -10,7 +10,6 @@ langchain-community
 langchain-chroma
 langchain-huggingface
 langchain-text-splitters
-
 sentence-transformers
 chromadb
 pypdf
