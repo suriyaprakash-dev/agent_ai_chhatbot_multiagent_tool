@@ -1,8 +1,9 @@
 streamlit
 python-dotenv
-langchain-groq
 langgraph
 langchain
+langchain-openai
+langchain-groq
 pymysql
 sqlalchemy
 langchain-google-genai
